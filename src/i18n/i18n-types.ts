@@ -6,10 +6,8 @@ export type BaseTranslation = BaseTranslationType
 export type BaseLocale = 'en'
 
 export type Locales =
-	| 'ar'
-	| 'de'
 	| 'en'
-	| 'it'
+	| 'fr'
 
 export type Translation = RootTranslation
 
